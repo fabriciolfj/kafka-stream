@@ -1,0 +1,1 @@
+/home/spark/Documentos/confluent-5.5.1/bin/kafka-console-consumer --bootstrap-server localhost:9092 --topic pos --from-beginning

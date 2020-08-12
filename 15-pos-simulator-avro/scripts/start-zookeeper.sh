@@ -1,0 +1,1 @@
+/home/spark/Documentos/confluent-5.5.1/bin/zookeeper-server-start /home/spark/Documentos/confluent-5.5.1/etc/kafka/zookeeper.properties

@@ -1,0 +1,1 @@
+/home/spark/Documentos/confluent-5.5.1/bin/schema-registry-start /home/spark/Documentos/confluent-5.5.1/etc/schema-registry/schema-registry.properties

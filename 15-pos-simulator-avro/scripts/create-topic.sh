@@ -1,0 +1,1 @@
+/home/spark/Documentos/confluent-5.5.1/bin/kafka-topics --create --zookeeper localhost:2181 --replication-factor 3 --partitions 3 --topic pos
