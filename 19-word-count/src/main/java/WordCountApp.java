@@ -12,6 +12,9 @@ import org.apache.logging.log4j.Logger;
 import java.util.Arrays;
 import java.util.Properties;
 
+/*
+* KTable atualiza valores quando encontram, ja o kstream ele insere, mesmo se ja existir um igual (ele usa a key para verificar se existe ou não)
+* */
 public class WordCountApp {
     private static final Logger logger = LogManager.getLogger();
     public static void main(final String[] args) {

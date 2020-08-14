@@ -1,0 +1,4 @@
+101: {"id": "101", "name":"fabricio", "department" : "test", "salary" : 1000}
+102: {"id": "102", "name":"suzana"  , "department" : "contas", "salary" : 2000}
+103: {"id": "103", "name":"jessica" , "department" : "test", "salary" : 1400}
+104: {"id": "104", "name":"fabiano" , "department" : "qualidade", "salary" : 4000}

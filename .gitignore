@@ -4,3 +4,15 @@
 *.iml
 
 *.class
+
+17-rewards-in-memory-state/target/classes/
+
+17-rewards-in-memory-state/target/
+
+19-word-count/target/classes/
+
+*.sst
+
+*.log
+
+tmp/state-store/WindowSuppressApp/0_0/KSTREAM-AGGREGATE-STATE-STORE-0000000001/KSTREAM-AGGREGATE-STATE-STORE-0000000001.1549324800000/MANIFEST-000005

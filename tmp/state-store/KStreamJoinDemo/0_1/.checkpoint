@@ -1,0 +1,6 @@
+0
+4
+KStreamJoinDemo-KSTREAM-JOINTHIS-0000000004-store-changelog 1 4
+KStreamJoinDemo-KSTREAM-JOINOTHER-0000000005-store-changelog 0 0
+KStreamJoinDemo-KSTREAM-JOINTHIS-0000000004-store-changelog 0 0
+KStreamJoinDemo-KSTREAM-JOINOTHER-0000000005-store-changelog 1 3
