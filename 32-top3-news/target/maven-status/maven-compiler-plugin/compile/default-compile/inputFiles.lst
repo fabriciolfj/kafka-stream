@@ -1,0 +1,8 @@
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/AppConfigs.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/GKTableJoinDemo.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/JsonSerializer.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/AdClick.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/ClicksByNewsType.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/types/AdInventories.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/JsonDeserializer.java
+/home/spark/Documentos/repositorios/kafka-stream/32-top3-news/src/main/java/guru/learningjournal/kafka/examples/serde/AppSerdes.java
