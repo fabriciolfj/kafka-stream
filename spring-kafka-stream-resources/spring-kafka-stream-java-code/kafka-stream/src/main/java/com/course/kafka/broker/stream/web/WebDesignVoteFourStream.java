@@ -17,7 +17,7 @@ import com.course.kafka.broker.message.WebLayoutVoteMessage;
 import com.course.kafka.util.WebColorVoteTimestampExtractor;
 import com.course.kafka.util.WebLayoutVoteTimestampExtractor;
 
-@Configuration
+//@Configuration
 public class WebDesignVoteFourStream {
 
 	@Bean

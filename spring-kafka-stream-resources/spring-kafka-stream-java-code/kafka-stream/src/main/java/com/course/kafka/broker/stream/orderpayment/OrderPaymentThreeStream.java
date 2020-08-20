@@ -19,7 +19,7 @@ import com.course.kafka.broker.message.OnlinePaymentMessage;
 import com.course.kafka.util.OnlineOrderTimestampExtractor;
 import com.course.kafka.util.OnlinePaymentTimestampExtractor;
 
-@Configuration
+//@Configuration
 public class OrderPaymentThreeStream {
 
 	@Bean

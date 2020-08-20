@@ -8,6 +8,7 @@ import org.apache.kafka.streams.kstream.KStream;
 import org.apache.kafka.streams.kstream.Materialized;
 import org.apache.kafka.streams.kstream.Printed;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 import org.springframework.kafka.support.serializer.JsonSerde;
 
 import com.course.kafka.broker.message.WebColorVoteMessage;
@@ -16,7 +17,7 @@ import com.course.kafka.broker.message.WebLayoutVoteMessage;
 import com.course.kafka.util.WebColorVoteTimestampExtractor;
 import com.course.kafka.util.WebLayoutVoteTimestampExtractor;
 
-//@Configuration
+@Configuration
 public class WebDesignVoteOneStream {
 
 	@Bean

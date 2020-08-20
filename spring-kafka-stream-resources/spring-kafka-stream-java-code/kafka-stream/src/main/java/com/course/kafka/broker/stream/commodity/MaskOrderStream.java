@@ -13,7 +13,7 @@ import org.springframework.kafka.support.serializer.JsonSerde;
 import com.course.kafka.broker.message.OrderMessage;
 import com.course.kafka.util.CommodityStreamUtil;
 
-@Configuration
+//@Configuration
 public class MaskOrderStream {
 
 	@Bean
